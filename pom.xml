@@ -38,7 +38,7 @@
 		 <snapshotRepository>
 		    <id>nexus</id>
 		    <url>http://172.31.0.95:8081/repository/webapp-snapshot/</url>
-		 </isnapshotRepository>
+		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexus</id>
